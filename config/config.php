@@ -2,7 +2,7 @@
     // Database connection info
     define('DB_USER','root');
     define('DB_PASSWORD','');
-    define('DB_NAME','kssv');
+    define('DB_NAME','survey612');
     define('DB_HOST','localhost');
     define('DB_PORT',3306);
 
