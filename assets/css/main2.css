@@ -2,7 +2,7 @@
 
 .badge-notif { position: absolute; top: 1.2rem; margin-left: .7em; }
 
-/* Sidebar */
+/** Sidebar **/
 .sidebar-sticky { position: -webkit-sticky; position: sticky; top: 48px; height: calc(100vh - 48px); padding-top: .5rem; overflow-x: hidden; overflow-y: auto; }
 
 .sidebar .nav-link { font-weight: 300; color: #333; position: relative; display: block; padding: .5em 1em; text-decoration: none; }

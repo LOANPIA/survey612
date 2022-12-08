@@ -47,7 +47,7 @@ if (!in_array($_SESSION['ROLE'], array(UserType::ADMIN, UserType::STUDENT))) {
             <li class="nav-item">
               <a class="nav-link active" href="#">
                 <i class="fa fa-tachometer"></i>
-                Dashboard
+                Dashboard - Quản lý hệ thống
               </a>
             </li>
             <li class="nav-item">
