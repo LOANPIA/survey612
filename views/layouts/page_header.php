@@ -4,7 +4,7 @@
     <div class="navbar-nav-scroll">
       <ul class="navbar-nav bd-navbar-nav flex-row">
         <li class="nav-item px-2">
-          <a class="nav-link active" href="#">Trang quản trị</a>
+          <a class="nav-link active" href="#">Trang Quản Trị</a>
         </li>
       </ul>
     </div>
